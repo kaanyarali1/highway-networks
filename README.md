@@ -1,6 +1,4 @@
-# e4040-2021Spring-project
-
-HIGHWAY NETWORKS
+# HIGHWAY NETWORKS
 
 Kaan Yarali ky2446
 
