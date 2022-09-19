@@ -1,5 +1,5 @@
 # Highway Networks
-(https://arxiv.org/pdf/1505.00387.pdf)
+(https://arxiv.org/pdf/1505.00387.pdf) <br>
 Kaan Yarali ky2446
 
 
